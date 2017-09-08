@@ -10,7 +10,7 @@ The package works with Magento 2.0.x and 2.1.x.
 ### Installation
 
 1. Copy the whole "Codealist" directory into your /project-directory/app/code/
-2. From the terminal run: php bin/magento module:enable Codealist_Core Codealist_CmsPageRobots
+2. From the terminal run: php bin/magento module:enable Codealist_Core Codealist_MobileIcons
 3. php bin/magento setup:upgrade
 4. php bin/magento cache:clean
 
